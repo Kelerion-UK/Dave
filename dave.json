@@ -1,7 +1,7 @@
 {
   "type": "micro",
   "wake_word": "Dave",
-  "author": "Dave",
+  "author": "Kelerion",
   "website": "https://8010.co.uk/",
   "model": "dave.tflite",
   "version": 2,
