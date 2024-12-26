@@ -1,7 +1,7 @@
 {
   "type": "micro",
   "wake_word": "dave",
-  "author": "Kevin Ahrendt",
+  "author": "Dave",
   "website": "https://8010.co.uk/",
   "model": "dave.tflite",
   "version": 2,
