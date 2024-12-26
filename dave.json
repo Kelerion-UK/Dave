@@ -3,7 +3,7 @@
   "wake_word": "dave",
   "author": "Dave",
   "website": "https://8010.co.uk/",
-  "model": "dave.tflite",
+  "model": "./dave.tflite",
   "version": 2,
   "micro": {
     "probability_cutoff": 0.97,
