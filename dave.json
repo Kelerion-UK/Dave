@@ -3,7 +3,7 @@
   "wake_word": "oh_kay_dave",
   "author": "Kelerion",
   "website": "https://github.com/Kelerion-UK/Dave",
-  "model": "date.tflite",
+  "model": "dave.tflite",
   "trained_languages": [
     "en"
   ],
