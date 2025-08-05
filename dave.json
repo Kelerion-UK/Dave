@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "oh_kay_date",
   "author": "Kelerion",
-  "website": "https://github.com/Kelerion-UK/MicroWakeWord-Trainer-Docker",
+  "website": "https://github.com/Kelerion-UK/Dave",
   "model": "date.tflite",
   "trained_languages": [
     "en"
