@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "oh_kay_date",
+  "wake_word": "oh_kay_dave",
   "author": "Kelerion",
   "website": "https://github.com/Kelerion-UK/Dave",
   "model": "date.tflite",
