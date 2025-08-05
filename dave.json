@@ -1,16 +1,18 @@
 {
   "type": "micro",
-  "wake_word": "Dave",
+  "wake_word": "oh_kay_date",
   "author": "Kelerion",
-  "website": "https://8010.co.uk/",
-  "model": "dave.tflite",
-  "trained_languages": ["en","nl","fr","de","it","es","sv"],
+  "website": "https://github.com/Kelerion-UK/MicroWakeWord-Trainer-Docker",
+  "model": "date.tflite",
+  "trained_languages": [
+    "en"
+  ],
   "version": 2,
   "micro": {
-    "probability_cutoff": 0.96,
-    "feature_step_size": 10,
+    "probability_cutoff": 0.97,
     "sliding_window_size": 5,
-    "tensor_arena_size": 120000,
+    "feature_step_size": 10,
+    "tensor_arena_size": 30000,
     "minimum_esphome_version": "2024.7.0"
   }
 }
